@@ -99,3 +99,7 @@ total: 18
 
 execute ./tsuite run fail, cost 847.620
 ```
+
+## 测试策略和标准
+![image](https://user-images.githubusercontent.com/105911057/184788762-e7d12c00-9a92-487b-959e-121cab3a3e98.png)
+
